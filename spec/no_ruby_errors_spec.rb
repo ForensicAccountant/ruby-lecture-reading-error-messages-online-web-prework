@@ -1,4 +1,4 @@
-learn
+filter_parameter_logging
 ldescribe "Not having any errors and being all green" do
 
   context 'NameError' do
